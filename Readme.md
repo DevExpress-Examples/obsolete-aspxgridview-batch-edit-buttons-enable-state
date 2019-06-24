@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # OBSOLETE - ASPxGridView - Batch Editing - How to use external buttons to update data and enable them only when a row/cell has been changed
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t150388)**
+<!-- run online end -->
 
 
 <p><strong>UPDATED:</strong><br><br></p>
